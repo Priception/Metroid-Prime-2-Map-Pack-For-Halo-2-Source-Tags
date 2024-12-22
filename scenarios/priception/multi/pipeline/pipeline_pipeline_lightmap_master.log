@@ -1,0 +1,11 @@
+Lightmap job started at 11.12.24 19:43:46.567
+Finished start in 00:00:00 [h:m:s] (00:00:00 [h:m:s] total)
+  - mem (used= 0.00MB, free= -0.00MB)
+Finished loading scenario in 00:00:47 [h:m:s] (00:00:47 [h:m:s] total)
+  - mem (used= 0.00MB, free= -0.00MB)
+Finished processing geometry in 00:00:09 [h:m:s] (00:00:57 [h:m:s] total)
+  - mem (used= 0.00MB, free= -0.00MB)
+Finished rasterizing in 00:00:01 [h:m:s] (00:00:58 [h:m:s] total)
+  - mem (used= 0.00MB, free= -0.00MB)
+Finished! (total time: 00:00:59 [h:m:s])
+  - mem (used= 0.00MB, free= -0.00MB)
